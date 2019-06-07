@@ -1,0 +1,3 @@
+package com.example.codechallenge060619.view
+
+interface DetailActivityInterface
